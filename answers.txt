@@ -1,0 +1,8 @@
+After performing 5-fold cross validation the average test set accuracy was : 
+88.11894882434302%
+
+The accuracy obtained by randomly guessing one of the newsgroups as the target class for each of the articles was : 
+12.669432918395573%
+
+The improvement does after using my algorithm over a random prediction would be :
+75.449515905947447%
